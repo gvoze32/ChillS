@@ -91,7 +91,7 @@ SessionManagementScreen {
                 //border.width: 1
                 //color: passwordFieldOutlined ? "transparent" : "white"
                 color: "#f1f1f1"
-                opacity: 0.15
+                opacity: 0.25
             }
         }
 
